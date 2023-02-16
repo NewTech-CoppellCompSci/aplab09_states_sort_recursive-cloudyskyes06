@@ -26,6 +26,8 @@ public class State
 		return capital;
 	}
 	
+	
+	
 	public String getNickname()
 	{
 		return nickname;
